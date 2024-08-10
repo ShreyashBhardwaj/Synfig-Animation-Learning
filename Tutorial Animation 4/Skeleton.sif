@@ -1,0 +1,2423 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<canvas version="1.1" width="480" height="270" xres="2834.645752" yres="2834.645752" gamma-r="1.000000" gamma-g="1.000000" gamma-b="1.000000" view-box="-4.000000 2.250000 4.000000 -2.250000" antialias="1" fps="24.000" begin-time="0f" end-time="5s" bgcolor="0.500000 0.500000 0.500000 1.000000">
+  <name>Synfig Animation 3</name>
+  <meta name="background_first_color" content="0.880000 0.880000 0.880000"/>
+  <meta name="background_rendering" content="0"/>
+  <meta name="background_second_color" content="0.650000 0.650000 0.650000"/>
+  <meta name="background_size" content="15.000000 15.000000"/>
+  <meta name="grid_color" content="0.623529 0.623529 0.623529"/>
+  <meta name="grid_show" content="0"/>
+  <meta name="grid_size" content="0.250000 0.250000"/>
+  <meta name="grid_snap" content="0"/>
+  <meta name="guide_color" content="0.435294 0.435294 1.000000"/>
+  <meta name="guide_show" content="1"/>
+  <meta name="guide_snap" content="0"/>
+  <meta name="jack_offset" content="0.000000"/>
+  <meta name="onion_skin" content="0"/>
+  <meta name="onion_skin_future" content="0"/>
+  <meta name="onion_skin_past" content="1"/>
+  <keyframe time="0f" active="true"/>
+  <bones>
+    <bone_root type="bone_object" guid="336E529F70FBF908046181A62868229B"/>
+    <bone type="bone_object" guid="221DE91CF954F94F20FB8150D12A5B0A">
+      <name>
+        <string>Bone 1</string>
+      </name>
+      <parent>
+        <bone_valuenode type="bone_object" guid="336E529F70FBF908046181A62868229B"/>
+      </parent>
+      <origin>
+        <vector>
+          <x>0.9315061569</x>
+          <y>-8.2070503235</y>
+        </vector>
+      </origin>
+      <angle>
+        <angle value="91.889465"/>
+      </angle>
+      <scalelx>
+        <real value="5.3758938503"/>
+      </scalelx>
+      <width>
+        <real value="0.1000000000"/>
+      </width>
+      <scalex>
+        <real value="1.0000000000"/>
+      </scalex>
+      <tipwidth>
+        <real value="0.1000000000"/>
+      </tipwidth>
+      <bone_depth>
+        <real value="0.0000000000"/>
+      </bone_depth>
+      <length>
+        <real value="1.0000000000"/>
+      </length>
+    </bone>
+    <bone type="bone_object" guid="52DDFAE3E33EB3BBC1E8A235FB65EF8C">
+      <name>
+        <string>Bone 13</string>
+      </name>
+      <parent>
+        <bone_valuenode type="bone_object" guid="221DE91CF954F94F20FB8150D12A5B0A"/>
+      </parent>
+      <origin>
+        <vector>
+          <x>0.7195936441</x>
+          <y>-1.6860030890</y>
+        </vector>
+      </origin>
+      <angle>
+        <angle value="21.172342"/>
+      </angle>
+      <scalelx>
+        <real value="3.4752146017"/>
+      </scalelx>
+      <width>
+        <real value="0.1000000000"/>
+      </width>
+      <scalex>
+        <real value="1.0000000000"/>
+      </scalex>
+      <tipwidth>
+        <real value="0.1000000000"/>
+      </tipwidth>
+      <bone_depth>
+        <real value="0.0000000000"/>
+      </bone_depth>
+      <length>
+        <real value="1.0000000000"/>
+      </length>
+    </bone>
+    <bone type="bone_object" guid="3408176DBA9650F57EC65992B00F35EF">
+      <name>
+        <string>Bone 10</string>
+      </name>
+      <parent>
+        <bone_valuenode type="bone_object" guid="221DE91CF954F94F20FB8150D12A5B0A"/>
+      </parent>
+      <origin>
+        <vector>
+          <x>1.3160537481</x>
+          <y>0.1877509654</y>
+        </vector>
+      </origin>
+      <angle>
+        <angle value="143.267227"/>
+      </angle>
+      <scalelx>
+        <real value="3.4311039806"/>
+      </scalelx>
+      <width>
+        <real value="0.1000000000"/>
+      </width>
+      <scalex>
+        <real value="1.0000000000"/>
+      </scalex>
+      <tipwidth>
+        <real value="0.1000000000"/>
+      </tipwidth>
+      <bone_depth>
+        <real value="0.0000000000"/>
+      </bone_depth>
+      <length>
+        <real value="1.0000000000"/>
+      </length>
+    </bone>
+    <bone type="bone_object" guid="0C396C8AAE53CFB025C31A2AC10B1E3F">
+      <name>
+        <string>Bone 2</string>
+      </name>
+      <parent>
+        <bone_valuenode type="bone_object" guid="221DE91CF954F94F20FB8150D12A5B0A"/>
+      </parent>
+      <origin>
+        <vector>
+          <x>1.3962630033</x>
+          <y>-0.0702762380</y>
+        </vector>
+      </origin>
+      <angle>
+        <angle value="-7.267660"/>
+      </angle>
+      <scalelx>
+        <real value="4.7277129884"/>
+      </scalelx>
+      <width>
+        <real value="0.1000000000"/>
+      </width>
+      <scalex>
+        <real value="1.0000000000"/>
+      </scalex>
+      <tipwidth>
+        <real value="0.1000000000"/>
+      </tipwidth>
+      <bone_depth>
+        <real value="0.0000000000"/>
+      </bone_depth>
+      <length>
+        <real value="1.0000000000"/>
+      </length>
+    </bone>
+    <bone type="bone_object" guid="724FDC1A0296094FAC889B87F8E7FFBF">
+      <name>
+        <string>Bone 14</string>
+      </name>
+      <parent>
+        <bone_valuenode type="bone_object" guid="52DDFAE3E33EB3BBC1E8A235FB65EF8C"/>
+      </parent>
+      <origin>
+        <vector>
+          <x>-0.8627345562</x>
+          <y>-0.8738305569</y>
+        </vector>
+      </origin>
+      <angle>
+        <angle value="17.767759"/>
+      </angle>
+      <scalelx>
+        <real value="2.6651355421"/>
+      </scalelx>
+      <width>
+        <real value="0.1000000000"/>
+      </width>
+      <scalex>
+        <real value="1.0000000000"/>
+      </scalex>
+      <tipwidth>
+        <real value="0.1000000000"/>
+      </tipwidth>
+      <bone_depth>
+        <real value="0.0000000000"/>
+      </bone_depth>
+      <length>
+        <real value="1.0000000000"/>
+      </length>
+    </bone>
+    <bone type="bone_object" guid="B09627C3214D325AB9F4E18EF4898D83">
+      <name>
+        <string>Bone 11</string>
+      </name>
+      <parent>
+        <bone_valuenode type="bone_object" guid="3408176DBA9650F57EC65992B00F35EF"/>
+      </parent>
+      <origin>
+        <vector>
+          <x>1.1000000238</x>
+          <y>0.0000000000</y>
+        </vector>
+      </origin>
+      <angle>
+        <angle value="8.719587"/>
+      </angle>
+      <scalelx>
+        <real value="3.4297624342"/>
+      </scalelx>
+      <width>
+        <real value="0.1000000000"/>
+      </width>
+      <scalex>
+        <real value="1.0000000000"/>
+      </scalex>
+      <tipwidth>
+        <real value="0.1000000000"/>
+      </tipwidth>
+      <bone_depth>
+        <real value="0.0000000000"/>
+      </bone_depth>
+      <length>
+        <real value="1.0000000000"/>
+      </length>
+    </bone>
+    <bone type="bone_object" guid="91C6F53F43FC367EB551A234714505CA">
+      <name>
+        <string>Bone 3</string>
+      </name>
+      <parent>
+        <bone_valuenode type="bone_object" guid="0C396C8AAE53CFB025C31A2AC10B1E3F"/>
+      </parent>
+      <origin>
+        <vector>
+          <x>1.1049529314</x>
+          <y>0.2840883136</y>
+        </vector>
+      </origin>
+      <angle>
+        <angle value="3.781654"/>
+      </angle>
+      <scalelx>
+        <real value="3.7412129568"/>
+      </scalelx>
+      <width>
+        <real value="0.1000000000"/>
+      </width>
+      <scalex>
+        <real value="1.0000000000"/>
+      </scalex>
+      <tipwidth>
+        <real value="0.1000000000"/>
+      </tipwidth>
+      <bone_depth>
+        <real value="0.0000000000"/>
+      </bone_depth>
+      <length>
+        <real value="1.0000000000"/>
+      </length>
+    </bone>
+    <bone type="bone_object" guid="67A1AD03BFE89160FE225990C5DC931B">
+      <name>
+        <string>Bone 4</string>
+      </name>
+      <parent>
+        <bone_valuenode type="bone_object" guid="0C396C8AAE53CFB025C31A2AC10B1E3F"/>
+      </parent>
+      <origin>
+        <vector>
+          <x>0.8001132011</x>
+          <y>0.0890675187</y>
+        </vector>
+      </origin>
+      <angle>
+        <angle value="154.587006"/>
+      </angle>
+      <scalelx>
+        <real value="1.8328350069"/>
+      </scalelx>
+      <width>
+        <real value="0.1000000000"/>
+      </width>
+      <scalex>
+        <real value="1.0000000000"/>
+      </scalex>
+      <tipwidth>
+        <real value="0.1000000000"/>
+      </tipwidth>
+      <bone_depth>
+        <real value="0.0000000000"/>
+      </bone_depth>
+      <length>
+        <real value="1.0000000000"/>
+      </length>
+    </bone>
+    <bone type="bone_object" guid="7CC76776840BF9B267FBC3F08163DF80">
+      <name>
+        <string>Bone 7</string>
+      </name>
+      <parent>
+        <bone_valuenode type="bone_object" guid="0C396C8AAE53CFB025C31A2AC10B1E3F"/>
+      </parent>
+      <origin>
+        <vector>
+          <x>1.0167695284</x>
+          <y>-0.0594976619</y>
+        </vector>
+      </origin>
+      <angle>
+        <angle value="-139.070251"/>
+      </angle>
+      <scalelx>
+        <real value="2.7311985381"/>
+      </scalelx>
+      <width>
+        <real value="0.1000000000"/>
+      </width>
+      <scalex>
+        <real value="1.0000000000"/>
+      </scalex>
+      <tipwidth>
+        <real value="0.1000000000"/>
+      </tipwidth>
+      <bone_depth>
+        <real value="0.0000000000"/>
+      </bone_depth>
+      <length>
+        <real value="1.0000000000"/>
+      </length>
+    </bone>
+    <bone type="bone_object" guid="EDDC9E63F7B69C55A0ED479308B3923C">
+      <name>
+        <string>Bone 15</string>
+      </name>
+      <parent>
+        <bone_valuenode type="bone_object" guid="724FDC1A0296094FAC889B87F8E7FFBF"/>
+      </parent>
+      <origin>
+        <vector>
+          <x>-0.2290254086</x>
+          <y>0.0716399327</y>
+        </vector>
+      </origin>
+      <angle>
+        <angle value="106.722870"/>
+      </angle>
+      <scalelx>
+        <real value="1.4208807694"/>
+      </scalelx>
+      <width>
+        <real value="0.1000000000"/>
+      </width>
+      <scalex>
+        <real value="1.0000000000"/>
+      </scalex>
+      <tipwidth>
+        <real value="0.1000000000"/>
+      </tipwidth>
+      <bone_depth>
+        <real value="0.0000000000"/>
+      </bone_depth>
+      <length>
+        <real value="1.0000000000"/>
+      </length>
+    </bone>
+    <bone type="bone_object" guid="27326CBE13C59CDA74AF252CBA5C8020">
+      <name>
+        <string>Bone 12</string>
+      </name>
+      <parent>
+        <bone_valuenode type="bone_object" guid="B09627C3214D325AB9F4E18EF4898D83"/>
+      </parent>
+      <origin>
+        <vector>
+          <x>1.1755865812</x>
+          <y>0.1336047053</y>
+        </vector>
+      </origin>
+      <angle>
+        <angle value="-87.721504"/>
+      </angle>
+      <scalelx>
+        <real value="1.4874939081"/>
+      </scalelx>
+      <width>
+        <real value="0.1000000000"/>
+      </width>
+      <scalex>
+        <real value="1.0000000000"/>
+      </scalex>
+      <tipwidth>
+        <real value="0.1000000000"/>
+      </tipwidth>
+      <bone_depth>
+        <real value="0.0000000000"/>
+      </bone_depth>
+      <length>
+        <real value="1.0000000000"/>
+      </length>
+    </bone>
+    <bone type="bone_object" guid="171A083A8A183D3B5EE23DF6820FA085">
+      <name>
+        <string>Bone 5</string>
+      </name>
+      <parent>
+        <bone_valuenode type="bone_object" guid="67A1AD03BFE89160FE225990C5DC931B"/>
+      </parent>
+      <origin>
+        <vector>
+          <x>1.1000000238</x>
+          <y>0.0000000000</y>
+        </vector>
+      </origin>
+      <angle>
+        <angle value="-10.049436"/>
+      </angle>
+      <scalelx>
+        <real value="2.7897939369"/>
+      </scalelx>
+      <width>
+        <real value="0.1000000000"/>
+      </width>
+      <scalex>
+        <real value="1.0000000000"/>
+      </scalex>
+      <tipwidth>
+        <real value="0.1000000000"/>
+      </tipwidth>
+      <bone_depth>
+        <real value="0.0000000000"/>
+      </bone_depth>
+      <length>
+        <real value="1.0000000000"/>
+      </length>
+    </bone>
+    <bone type="bone_object" guid="CCF4372B480AA1F2A293E21D91E38264">
+      <name>
+        <string>Bone 8</string>
+      </name>
+      <parent>
+        <bone_valuenode type="bone_object" guid="7CC76776840BF9B267FBC3F08163DF80"/>
+      </parent>
+      <origin>
+        <vector>
+          <x>1.2171778679</x>
+          <y>-0.0429762937</y>
+        </vector>
+      </origin>
+      <angle>
+        <angle value="-14.692761"/>
+      </angle>
+      <scalelx>
+        <real value="2.5940837550"/>
+      </scalelx>
+      <width>
+        <real value="0.1000000000"/>
+      </width>
+      <scalex>
+        <real value="1.0000000000"/>
+      </scalex>
+      <tipwidth>
+        <real value="0.1000000000"/>
+      </tipwidth>
+      <bone_depth>
+        <real value="0.0000000000"/>
+      </bone_depth>
+      <length>
+        <real value="1.0000000000"/>
+      </length>
+    </bone>
+    <bone type="bone_object" guid="ED39FC138A4D9B6AB3BC36D6BAD10621">
+      <name>
+        <string>Bone 6</string>
+      </name>
+      <parent>
+        <bone_valuenode type="bone_object" guid="171A083A8A183D3B5EE23DF6820FA085"/>
+      </parent>
+      <origin>
+        <vector>
+          <x>1.0641826391</x>
+          <y>-0.0024648034</y>
+        </vector>
+      </origin>
+      <angle>
+        <angle value="1.727264"/>
+      </angle>
+      <scalelx>
+        <real value="1.0000000000"/>
+      </scalelx>
+      <width>
+        <real value="0.1000000000"/>
+      </width>
+      <scalex>
+        <real value="1.0000000000"/>
+      </scalex>
+      <tipwidth>
+        <real value="0.1000000000"/>
+      </tipwidth>
+      <bone_depth>
+        <real value="0.0000000000"/>
+      </bone_depth>
+      <length>
+        <real value="1.0000000000"/>
+      </length>
+    </bone>
+    <bone type="bone_object" guid="0810E94DFF098E6ACF4599FB6F13C8BF">
+      <name>
+        <string>Bone 9</string>
+      </name>
+      <parent>
+        <bone_valuenode type="bone_object" guid="CCF4372B480AA1F2A293E21D91E38264"/>
+      </parent>
+      <origin>
+        <vector>
+          <x>1.1000000238</x>
+          <y>0.0000000000</y>
+        </vector>
+      </origin>
+      <angle>
+        <angle value="-22.082376"/>
+      </angle>
+      <scalelx>
+        <real value="0.7800707548"/>
+      </scalelx>
+      <width>
+        <real value="0.1000000000"/>
+      </width>
+      <scalex>
+        <real value="1.0000000000"/>
+      </scalex>
+      <tipwidth>
+        <real value="0.1000000000"/>
+      </tipwidth>
+      <bone_depth>
+        <real value="0.0000000000"/>
+      </bone_depth>
+      <length>
+        <real value="1.0000000000"/>
+      </length>
+    </bone>
+  </bones>
+  <layer type="group" active="true" exclude_from_rendering="false" version="0.3">
+    <param name="z_depth">
+      <real value="0.0000000000"/>
+    </param>
+    <param name="amount">
+      <real value="1.0000000000"/>
+    </param>
+    <param name="blend_method">
+      <integer value="0" static="true"/>
+    </param>
+    <param name="origin">
+      <vector>
+        <x>0.0000000000</x>
+        <y>0.0000000000</y>
+      </vector>
+    </param>
+    <param name="transformation">
+      <composite type="transformation">
+        <offset>
+          <vector>
+            <x>0.0000000000</x>
+            <y>0.0000000000</y>
+          </vector>
+        </offset>
+        <angle>
+          <angle value="0.000000"/>
+        </angle>
+        <skew_angle>
+          <angle value="0.000000"/>
+        </skew_angle>
+        <scale>
+          <vector>
+            <x>0.2407139689</x>
+            <y>0.2407139689</y>
+          </vector>
+        </scale>
+      </composite>
+    </param>
+    <param name="canvas">
+      <canvas>
+        <layer type="switch" active="true" exclude_from_rendering="false" version="0.0" desc="upper arm-r.png">
+          <param name="z_depth">
+            <real value="0.0000000000"/>
+          </param>
+          <param name="amount">
+            <real value="1.0000000000"/>
+          </param>
+          <param name="blend_method">
+            <integer value="0" static="true"/>
+          </param>
+          <param name="origin">
+            <vector>
+              <x>0.0000000000</x>
+              <y>0.0000000000</y>
+            </vector>
+          </param>
+          <param name="transformation">
+            <bone_link type="transformation">
+              <bone>
+                <bone_valuenode type="bone_object" guid="7CC76776840BF9B267FBC3F08163DF80"/>
+              </bone>
+              <base_value>
+                <composite type="transformation">
+                  <offset>
+                    <vector>
+                      <x>0.8181038499</x>
+                      <y>-0.1246075481</y>
+                    </vector>
+                  </offset>
+                  <angle>
+                    <angle value="75.336609"/>
+                  </angle>
+                  <skew_angle>
+                    <angle value="-48.209045"/>
+                  </skew_angle>
+                  <scale>
+                    <vector>
+                      <x>0.8409838080</x>
+                      <y>0.6533027887</y>
+                    </vector>
+                  </scale>
+                </composite>
+              </base_value>
+              <translate>
+                <bool value="true"/>
+              </translate>
+              <rotate>
+                <bool value="true"/>
+              </rotate>
+              <skew>
+                <bool value="true"/>
+              </skew>
+              <scale_x>
+                <bool value="true"/>
+              </scale_x>
+              <scale_y>
+                <bool value="true"/>
+              </scale_y>
+            </bone_link>
+          </param>
+          <param name="canvas">
+            <canvas>
+              <layer type="import" active="true" exclude_from_rendering="false" version="0.1" desc="upper arm-r.png">
+                <param name="z_depth">
+                  <real value="0.0000000000"/>
+                </param>
+                <param name="amount">
+                  <real value="1.0000000000"/>
+                </param>
+                <param name="blend_method">
+                  <integer value="0" static="true"/>
+                </param>
+                <param name="tl">
+                  <vector>
+                    <x>-0.9583333135</x>
+                    <y>1.2250000238</y>
+                  </vector>
+                </param>
+                <param name="br">
+                  <vector>
+                    <x>0.9583333135</x>
+                    <y>-1.2250000238</y>
+                  </vector>
+                </param>
+                <param name="c">
+                  <integer value="1" static="true"/>
+                </param>
+                <param name="gamma_adjust">
+                  <real value="1.0000000000"/>
+                </param>
+                <param name="filename">
+                  <string>../workshop-synfig\workshop-synfig\character-2\upper arm-r.png</string>
+                </param>
+                <param name="time_offset">
+                  <time value="0s"/>
+                </param>
+              </layer>
+            </canvas>
+          </param>
+          <param name="time_dilation">
+            <real value="1.0000000000"/>
+          </param>
+          <param name="time_offset">
+            <time value="0s"/>
+          </param>
+          <param name="children_lock">
+            <bool value="true" static="true"/>
+          </param>
+          <param name="outline_grow">
+            <real value="0.0000000000"/>
+          </param>
+          <param name="layer_name">
+            <string>upper arm-r.png</string>
+          </param>
+          <param name="layer_depth">
+            <integer value="-1"/>
+          </param>
+        </layer>
+        <layer type="switch" active="true" exclude_from_rendering="false" version="0.0" desc="upper leg-r.png">
+          <param name="z_depth">
+            <real value="0.0000000000"/>
+          </param>
+          <param name="amount">
+            <real value="1.0000000000"/>
+          </param>
+          <param name="blend_method">
+            <integer value="0" static="true"/>
+          </param>
+          <param name="origin">
+            <vector>
+              <x>0.0000000000</x>
+              <y>0.0000000000</y>
+            </vector>
+          </param>
+          <param name="transformation">
+            <bone_link type="transformation">
+              <bone>
+                <bone_valuenode type="bone_object" guid="3408176DBA9650F57EC65992B00F35EF"/>
+              </bone>
+              <base_value>
+                <composite type="transformation">
+                  <offset>
+                    <vector>
+                      <x>0.7022457123</x>
+                      <y>-0.2236710042</y>
+                    </vector>
+                  </offset>
+                  <angle>
+                    <angle value="83.276497"/>
+                  </angle>
+                  <skew_angle>
+                    <angle value="-47.502197"/>
+                  </skew_angle>
+                  <scale>
+                    <vector>
+                      <x>0.9334542751</x>
+                      <y>0.4621764123</y>
+                    </vector>
+                  </scale>
+                </composite>
+              </base_value>
+              <translate>
+                <bool value="true"/>
+              </translate>
+              <rotate>
+                <bool value="true"/>
+              </rotate>
+              <skew>
+                <bool value="true"/>
+              </skew>
+              <scale_x>
+                <bool value="true"/>
+              </scale_x>
+              <scale_y>
+                <bool value="true"/>
+              </scale_y>
+            </bone_link>
+          </param>
+          <param name="canvas">
+            <canvas>
+              <layer type="import" active="true" exclude_from_rendering="false" version="0.1" desc="upper leg-r.png">
+                <param name="z_depth">
+                  <real value="0.0000000000"/>
+                </param>
+                <param name="amount">
+                  <real value="1.0000000000"/>
+                </param>
+                <param name="blend_method">
+                  <integer value="0" static="true"/>
+                </param>
+                <param name="tl">
+                  <vector>
+                    <x>-1.5000000000</x>
+                    <y>2.4249999523</y>
+                  </vector>
+                </param>
+                <param name="br">
+                  <vector>
+                    <x>1.5000000000</x>
+                    <y>-2.4249999523</y>
+                  </vector>
+                </param>
+                <param name="c">
+                  <integer value="1" static="true"/>
+                </param>
+                <param name="gamma_adjust">
+                  <real value="1.0000000000"/>
+                </param>
+                <param name="filename">
+                  <string>../workshop-synfig\workshop-synfig\character-2\upper leg-r.png</string>
+                </param>
+                <param name="time_offset">
+                  <time value="0s"/>
+                </param>
+              </layer>
+            </canvas>
+          </param>
+          <param name="time_dilation">
+            <real value="1.0000000000"/>
+          </param>
+          <param name="time_offset">
+            <time value="0s"/>
+          </param>
+          <param name="children_lock">
+            <bool value="true" static="true"/>
+          </param>
+          <param name="outline_grow">
+            <real value="0.0000000000"/>
+          </param>
+          <param name="layer_name">
+            <string>upper leg-r.png</string>
+          </param>
+          <param name="layer_depth">
+            <integer value="-1"/>
+          </param>
+        </layer>
+        <layer type="switch" active="true" exclude_from_rendering="false" version="0.0" desc="foot-r.png">
+          <param name="z_depth">
+            <real value="0.0000000000"/>
+          </param>
+          <param name="amount">
+            <real value="1.0000000000"/>
+          </param>
+          <param name="blend_method">
+            <integer value="0" static="true"/>
+          </param>
+          <param name="origin">
+            <vector>
+              <x>0.0000000000</x>
+              <y>0.0000000000</y>
+            </vector>
+          </param>
+          <param name="transformation">
+            <bone_link type="transformation">
+              <bone>
+                <bone_valuenode type="bone_object" guid="27326CBE13C59CDA74AF252CBA5C8020"/>
+              </bone>
+              <base_value>
+                <composite type="transformation">
+                  <offset>
+                    <vector>
+                      <x>0.5089047551</x>
+                      <y>-0.0876605511</y>
+                    </vector>
+                  </offset>
+                  <angle>
+                    <angle value="132.346695"/>
+                  </angle>
+                  <skew_angle>
+                    <angle value="-338.722290"/>
+                  </skew_angle>
+                  <scale>
+                    <vector>
+                      <x>0.8031564355</x>
+                      <y>0.8982699513</y>
+                    </vector>
+                  </scale>
+                </composite>
+              </base_value>
+              <translate>
+                <bool value="true"/>
+              </translate>
+              <rotate>
+                <bool value="true"/>
+              </rotate>
+              <skew>
+                <bool value="true"/>
+              </skew>
+              <scale_x>
+                <bool value="true"/>
+              </scale_x>
+              <scale_y>
+                <bool value="true"/>
+              </scale_y>
+            </bone_link>
+          </param>
+          <param name="canvas">
+            <canvas>
+              <layer type="import" active="true" exclude_from_rendering="false" version="0.1" desc="foot-r.png">
+                <param name="z_depth">
+                  <real value="0.0000000000"/>
+                </param>
+                <param name="amount">
+                  <real value="1.0000000000"/>
+                </param>
+                <param name="blend_method">
+                  <integer value="0" static="true"/>
+                </param>
+                <param name="tl">
+                  <vector>
+                    <x>-1.4666666985</x>
+                    <y>1.2833333015</y>
+                  </vector>
+                </param>
+                <param name="br">
+                  <vector>
+                    <x>1.4666666985</x>
+                    <y>-1.2833333015</y>
+                  </vector>
+                </param>
+                <param name="c">
+                  <integer value="1" static="true"/>
+                </param>
+                <param name="gamma_adjust">
+                  <real value="1.0000000000"/>
+                </param>
+                <param name="filename">
+                  <string>../workshop-synfig\workshop-synfig\character-2\foot-r.png</string>
+                </param>
+                <param name="time_offset">
+                  <time value="0s"/>
+                </param>
+              </layer>
+            </canvas>
+          </param>
+          <param name="time_dilation">
+            <real value="1.0000000000"/>
+          </param>
+          <param name="time_offset">
+            <time value="0s"/>
+          </param>
+          <param name="children_lock">
+            <bool value="true" static="true"/>
+          </param>
+          <param name="outline_grow">
+            <real value="0.0000000000"/>
+          </param>
+          <param name="layer_name">
+            <string>foot-r.png</string>
+          </param>
+          <param name="layer_depth">
+            <integer value="-1"/>
+          </param>
+        </layer>
+        <layer type="switch" active="false" exclude_from_rendering="false" version="0.0" desc="0.png">
+          <param name="z_depth">
+            <real value="0.0000000000"/>
+          </param>
+          <param name="amount">
+            <real value="0.5000000000"/>
+          </param>
+          <param name="blend_method">
+            <integer value="0" static="true"/>
+          </param>
+          <param name="origin">
+            <vector>
+              <x>0.0000000000</x>
+              <y>0.0000000000</y>
+            </vector>
+          </param>
+          <param name="transformation">
+            <composite type="transformation">
+              <offset>
+                <vector>
+                  <x>0.0000000000</x>
+                  <y>0.0000000000</y>
+                </vector>
+              </offset>
+              <angle>
+                <angle value="0.000000"/>
+              </angle>
+              <skew_angle>
+                <angle value="0.000000"/>
+              </skew_angle>
+              <scale>
+                <vector>
+                  <x>1.0000000000</x>
+                  <y>1.0000000000</y>
+                </vector>
+              </scale>
+            </composite>
+          </param>
+          <param name="canvas">
+            <canvas>
+              <layer type="import" active="true" exclude_from_rendering="false" version="0.1" desc="0.png">
+                <param name="z_depth">
+                  <real value="0.0000000000"/>
+                </param>
+                <param name="amount">
+                  <real value="1.0000000000"/>
+                </param>
+                <param name="blend_method">
+                  <integer value="0" static="true"/>
+                </param>
+                <param name="tl">
+                  <vector>
+                    <x>-5.8666667938</x>
+                    <y>9.6000003815</y>
+                  </vector>
+                </param>
+                <param name="br">
+                  <vector>
+                    <x>5.8666667938</x>
+                    <y>-9.6000003815</y>
+                  </vector>
+                </param>
+                <param name="c">
+                  <integer value="1" static="true"/>
+                </param>
+                <param name="gamma_adjust">
+                  <real value="1.0000000000"/>
+                </param>
+                <param name="filename">
+                  <string>../workshop-synfig\workshop-synfig\character-2\0.png</string>
+                </param>
+                <param name="time_offset">
+                  <time value="0s"/>
+                </param>
+              </layer>
+            </canvas>
+          </param>
+          <param name="time_dilation">
+            <real value="1.0000000000"/>
+          </param>
+          <param name="time_offset">
+            <time value="0s"/>
+          </param>
+          <param name="children_lock">
+            <bool value="true" static="true"/>
+          </param>
+          <param name="outline_grow">
+            <real value="0.0000000000"/>
+          </param>
+          <param name="layer_name">
+            <string>0.png</string>
+          </param>
+          <param name="layer_depth">
+            <integer value="-1"/>
+          </param>
+        </layer>
+        <layer type="switch" active="true" exclude_from_rendering="false" version="0.0" desc="body.png">
+          <param name="z_depth">
+            <real value="0.0000000000"/>
+          </param>
+          <param name="amount">
+            <real value="1.0000000000"/>
+          </param>
+          <param name="blend_method">
+            <integer value="0" static="true"/>
+          </param>
+          <param name="origin">
+            <vector>
+              <x>0.0000000000</x>
+              <y>0.0000000000</y>
+            </vector>
+          </param>
+          <param name="transformation">
+            <bone_link type="transformation">
+              <bone>
+                <bone_valuenode type="bone_object" guid="0C396C8AAE53CFB025C31A2AC10B1E3F"/>
+              </bone>
+              <base_value>
+                <composite type="transformation">
+                  <offset>
+                    <vector>
+                      <x>0.5287921429</x>
+                      <y>0.2869488001</y>
+                    </vector>
+                  </offset>
+                  <angle>
+                    <angle value="-88.859207"/>
+                  </angle>
+                  <skew_angle>
+                    <angle value="22.852385"/>
+                  </skew_angle>
+                  <scale>
+                    <vector>
+                      <x>0.9957951307</x>
+                      <y>0.2305046171</y>
+                    </vector>
+                  </scale>
+                </composite>
+              </base_value>
+              <translate>
+                <bool value="true"/>
+              </translate>
+              <rotate>
+                <bool value="true"/>
+              </rotate>
+              <skew>
+                <bool value="true"/>
+              </skew>
+              <scale_x>
+                <bool value="true"/>
+              </scale_x>
+              <scale_y>
+                <bool value="true"/>
+              </scale_y>
+            </bone_link>
+          </param>
+          <param name="canvas">
+            <canvas>
+              <layer type="import" active="true" exclude_from_rendering="false" version="0.1" desc="body.png">
+                <param name="z_depth">
+                  <real value="0.0000000000"/>
+                </param>
+                <param name="amount">
+                  <real value="1.0000000000"/>
+                </param>
+                <param name="blend_method">
+                  <integer value="0" static="true"/>
+                </param>
+                <param name="tl">
+                  <vector>
+                    <x>-1.9833333492</x>
+                    <y>3.6583333015</y>
+                  </vector>
+                </param>
+                <param name="br">
+                  <vector>
+                    <x>1.9833333492</x>
+                    <y>-3.6583333015</y>
+                  </vector>
+                </param>
+                <param name="c">
+                  <integer value="1" static="true"/>
+                </param>
+                <param name="gamma_adjust">
+                  <real value="1.0000000000"/>
+                </param>
+                <param name="filename">
+                  <string>../workshop-synfig\workshop-synfig\character-2\body.png</string>
+                </param>
+                <param name="time_offset">
+                  <time value="0s"/>
+                </param>
+              </layer>
+            </canvas>
+          </param>
+          <param name="time_dilation">
+            <real value="1.0000000000"/>
+          </param>
+          <param name="time_offset">
+            <time value="0s"/>
+          </param>
+          <param name="children_lock">
+            <bool value="true" static="true"/>
+          </param>
+          <param name="outline_grow">
+            <real value="0.0000000000"/>
+          </param>
+          <param name="layer_name">
+            <string>body.png</string>
+          </param>
+          <param name="layer_depth">
+            <integer value="-1"/>
+          </param>
+        </layer>
+        <layer type="switch" active="true" exclude_from_rendering="false" version="0.0" desc="hand-r.png">
+          <param name="z_depth">
+            <real value="0.0000000000"/>
+          </param>
+          <param name="amount">
+            <real value="1.0000000000"/>
+          </param>
+          <param name="blend_method">
+            <integer value="0" static="true"/>
+          </param>
+          <param name="origin">
+            <vector>
+              <x>0.0000000000</x>
+              <y>0.0000000000</y>
+            </vector>
+          </param>
+          <param name="transformation">
+            <bone_link type="transformation">
+              <bone>
+                <bone_valuenode type="bone_object" guid="0810E94DFF098E6ACF4599FB6F13C8BF"/>
+              </bone>
+              <base_value>
+                <composite type="transformation">
+                  <offset>
+                    <vector>
+                      <x>0.5585629940</x>
+                      <y>-0.1817516237</y>
+                    </vector>
+                  </offset>
+                  <angle>
+                    <angle value="91.568405"/>
+                  </angle>
+                  <skew_angle>
+                    <angle value="-360.613861"/>
+                  </skew_angle>
+                  <scale>
+                    <vector>
+                      <x>1.0001466274</x>
+                      <y>1.2818205357</y>
+                    </vector>
+                  </scale>
+                </composite>
+              </base_value>
+              <translate>
+                <bool value="true"/>
+              </translate>
+              <rotate>
+                <bool value="true"/>
+              </rotate>
+              <skew>
+                <bool value="true"/>
+              </skew>
+              <scale_x>
+                <bool value="true"/>
+              </scale_x>
+              <scale_y>
+                <bool value="true"/>
+              </scale_y>
+            </bone_link>
+          </param>
+          <param name="canvas">
+            <canvas>
+              <layer type="import" active="true" exclude_from_rendering="false" version="0.1" desc="hand-r.png">
+                <param name="z_depth">
+                  <real value="0.0000000000"/>
+                </param>
+                <param name="amount">
+                  <real value="1.0000000000"/>
+                </param>
+                <param name="blend_method">
+                  <integer value="0" static="true"/>
+                </param>
+                <param name="tl">
+                  <vector>
+                    <x>-0.9333333373</x>
+                    <y>0.9333333373</y>
+                  </vector>
+                </param>
+                <param name="br">
+                  <vector>
+                    <x>0.9333333373</x>
+                    <y>-0.9333333373</y>
+                  </vector>
+                </param>
+                <param name="c">
+                  <integer value="1" static="true"/>
+                </param>
+                <param name="gamma_adjust">
+                  <real value="1.0000000000"/>
+                </param>
+                <param name="filename">
+                  <string>../workshop-synfig\workshop-synfig\character-2\hand-r.png</string>
+                </param>
+                <param name="time_offset">
+                  <time value="0s"/>
+                </param>
+              </layer>
+            </canvas>
+          </param>
+          <param name="time_dilation">
+            <real value="1.0000000000"/>
+          </param>
+          <param name="time_offset">
+            <time value="0s"/>
+          </param>
+          <param name="children_lock">
+            <bool value="true" static="true"/>
+          </param>
+          <param name="outline_grow">
+            <real value="0.0000000000"/>
+          </param>
+          <param name="layer_name">
+            <string>hand-r.png</string>
+          </param>
+          <param name="layer_depth">
+            <integer value="-1"/>
+          </param>
+        </layer>
+        <layer type="switch" active="true" exclude_from_rendering="false" version="0.0" desc="foot-l.png">
+          <param name="z_depth">
+            <real value="0.0000000000"/>
+          </param>
+          <param name="amount">
+            <real value="1.0000000000"/>
+          </param>
+          <param name="blend_method">
+            <integer value="0" static="true"/>
+          </param>
+          <param name="origin">
+            <vector>
+              <x>0.0000000000</x>
+              <y>0.0000000000</y>
+            </vector>
+          </param>
+          <param name="transformation">
+            <bone_link type="transformation">
+              <bone>
+                <bone_valuenode type="bone_object" guid="EDDC9E63F7B69C55A0ED479308B3923C"/>
+              </bone>
+              <base_value>
+                <composite type="transformation">
+                  <offset>
+                    <vector>
+                      <x>0.6564441323</x>
+                      <y>-0.0067743543</y>
+                    </vector>
+                  </offset>
+                  <angle>
+                    <angle value="114.106506"/>
+                  </angle>
+                  <skew_angle>
+                    <angle value="-342.012665"/>
+                  </skew_angle>
+                  <scale>
+                    <vector>
+                      <x>0.9245114923</x>
+                      <y>0.8003731370</y>
+                    </vector>
+                  </scale>
+                </composite>
+              </base_value>
+              <translate>
+                <bool value="true"/>
+              </translate>
+              <rotate>
+                <bool value="true"/>
+              </rotate>
+              <skew>
+                <bool value="true"/>
+              </skew>
+              <scale_x>
+                <bool value="true"/>
+              </scale_x>
+              <scale_y>
+                <bool value="true"/>
+              </scale_y>
+            </bone_link>
+          </param>
+          <param name="canvas">
+            <canvas>
+              <layer type="import" active="true" exclude_from_rendering="false" version="0.1" desc="foot-l.png">
+                <param name="z_depth">
+                  <real value="0.0000000000"/>
+                </param>
+                <param name="amount">
+                  <real value="1.0000000000"/>
+                </param>
+                <param name="blend_method">
+                  <integer value="0" static="true"/>
+                </param>
+                <param name="tl">
+                  <vector>
+                    <x>-1.4666666985</x>
+                    <y>1.2833333015</y>
+                  </vector>
+                </param>
+                <param name="br">
+                  <vector>
+                    <x>1.4666666985</x>
+                    <y>-1.2833333015</y>
+                  </vector>
+                </param>
+                <param name="c">
+                  <integer value="1" static="true"/>
+                </param>
+                <param name="gamma_adjust">
+                  <real value="1.0000000000"/>
+                </param>
+                <param name="filename">
+                  <string>../workshop-synfig\workshop-synfig\character-2\foot-l.png</string>
+                </param>
+                <param name="time_offset">
+                  <time value="0s"/>
+                </param>
+              </layer>
+            </canvas>
+          </param>
+          <param name="time_dilation">
+            <real value="1.0000000000"/>
+          </param>
+          <param name="time_offset">
+            <time value="0s"/>
+          </param>
+          <param name="children_lock">
+            <bool value="true" static="true"/>
+          </param>
+          <param name="outline_grow">
+            <real value="0.0000000000"/>
+          </param>
+          <param name="layer_name">
+            <string>foot-l.png</string>
+          </param>
+          <param name="layer_depth">
+            <integer value="-1"/>
+          </param>
+        </layer>
+        <layer type="switch" active="true" exclude_from_rendering="false" version="0.0" desc="lower leg-r.png">
+          <param name="z_depth">
+            <real value="0.0000000000"/>
+          </param>
+          <param name="amount">
+            <real value="1.0000000000"/>
+          </param>
+          <param name="blend_method">
+            <integer value="0" static="true"/>
+          </param>
+          <param name="origin">
+            <vector>
+              <x>0.0000000000</x>
+              <y>0.0000000000</y>
+            </vector>
+          </param>
+          <param name="transformation">
+            <bone_link type="transformation">
+              <bone>
+                <bone_valuenode type="bone_object" guid="B09627C3214D325AB9F4E18EF4898D83"/>
+              </bone>
+              <base_value>
+                <composite type="transformation">
+                  <offset>
+                    <vector>
+                      <x>0.5171061158</x>
+                      <y>-0.0859460309</y>
+                    </vector>
+                  </offset>
+                  <angle>
+                    <angle value="78.094955"/>
+                  </angle>
+                  <skew_angle>
+                    <angle value="-56.134315"/>
+                  </skew_angle>
+                  <scale>
+                    <vector>
+                      <x>0.8281625509</x>
+                      <y>0.6317888498</y>
+                    </vector>
+                  </scale>
+                </composite>
+              </base_value>
+              <translate>
+                <bool value="true"/>
+              </translate>
+              <rotate>
+                <bool value="true"/>
+              </rotate>
+              <skew>
+                <bool value="true"/>
+              </skew>
+              <scale_x>
+                <bool value="true"/>
+              </scale_x>
+              <scale_y>
+                <bool value="true"/>
+              </scale_y>
+            </bone_link>
+          </param>
+          <param name="canvas">
+            <canvas>
+              <layer type="import" active="true" exclude_from_rendering="false" version="0.1" desc="lower leg-r.png">
+                <param name="z_depth">
+                  <real value="0.0000000000"/>
+                </param>
+                <param name="amount">
+                  <real value="1.0000000000"/>
+                </param>
+                <param name="blend_method">
+                  <integer value="0" static="true"/>
+                </param>
+                <param name="tl">
+                  <vector>
+                    <x>-1.7250000238</x>
+                    <y>1.7833333015</y>
+                  </vector>
+                </param>
+                <param name="br">
+                  <vector>
+                    <x>1.7250000238</x>
+                    <y>-1.7833333015</y>
+                  </vector>
+                </param>
+                <param name="c">
+                  <integer value="1" static="true"/>
+                </param>
+                <param name="gamma_adjust">
+                  <real value="1.0000000000"/>
+                </param>
+                <param name="filename">
+                  <string>../workshop-synfig\workshop-synfig\character-2\lower leg-r.png</string>
+                </param>
+                <param name="time_offset">
+                  <time value="0s"/>
+                </param>
+              </layer>
+            </canvas>
+          </param>
+          <param name="time_dilation">
+            <real value="1.0000000000"/>
+          </param>
+          <param name="time_offset">
+            <time value="0s"/>
+          </param>
+          <param name="children_lock">
+            <bool value="true" static="true"/>
+          </param>
+          <param name="outline_grow">
+            <real value="0.0000000000"/>
+          </param>
+          <param name="layer_name">
+            <string>lower leg-r.png</string>
+          </param>
+          <param name="layer_depth">
+            <integer value="-1"/>
+          </param>
+        </layer>
+        <layer type="switch" active="true" exclude_from_rendering="false" version="0.0" desc="lower arm-r.png">
+          <param name="z_depth">
+            <real value="0.0000000000"/>
+          </param>
+          <param name="amount">
+            <real value="1.0000000000"/>
+          </param>
+          <param name="blend_method">
+            <integer value="0" static="true"/>
+          </param>
+          <param name="origin">
+            <vector>
+              <x>0.0000000000</x>
+              <y>0.0000000000</y>
+            </vector>
+          </param>
+          <param name="transformation">
+            <bone_link type="transformation">
+              <bone>
+                <bone_valuenode type="bone_object" guid="CCF4372B480AA1F2A293E21D91E38264"/>
+              </bone>
+              <base_value>
+                <composite type="transformation">
+                  <offset>
+                    <vector>
+                      <x>0.3865301907</x>
+                      <y>0.0073794336</y>
+                    </vector>
+                  </offset>
+                  <angle>
+                    <angle value="81.643707"/>
+                  </angle>
+                  <skew_angle>
+                    <angle value="-36.310822"/>
+                  </skew_angle>
+                  <scale>
+                    <vector>
+                      <x>0.9444879889</x>
+                      <y>0.5065045953</y>
+                    </vector>
+                  </scale>
+                </composite>
+              </base_value>
+              <translate>
+                <bool value="true"/>
+              </translate>
+              <rotate>
+                <bool value="true"/>
+              </rotate>
+              <skew>
+                <bool value="true"/>
+              </skew>
+              <scale_x>
+                <bool value="true"/>
+              </scale_x>
+              <scale_y>
+                <bool value="true"/>
+              </scale_y>
+            </bone_link>
+          </param>
+          <param name="canvas">
+            <canvas>
+              <layer type="import" active="true" exclude_from_rendering="false" version="0.1" desc="lower arm-r.png">
+                <param name="z_depth">
+                  <real value="0.0000000000"/>
+                </param>
+                <param name="amount">
+                  <real value="1.0000000000"/>
+                </param>
+                <param name="blend_method">
+                  <integer value="0" static="true"/>
+                </param>
+                <param name="tl">
+                  <vector>
+                    <x>-0.9250000119</x>
+                    <y>1.5249999762</y>
+                  </vector>
+                </param>
+                <param name="br">
+                  <vector>
+                    <x>0.9250000119</x>
+                    <y>-1.5249999762</y>
+                  </vector>
+                </param>
+                <param name="c">
+                  <integer value="1" static="true"/>
+                </param>
+                <param name="gamma_adjust">
+                  <real value="1.0000000000"/>
+                </param>
+                <param name="filename">
+                  <string>../workshop-synfig\workshop-synfig\character-2\lower arm-r.png</string>
+                </param>
+                <param name="time_offset">
+                  <time value="0s"/>
+                </param>
+              </layer>
+            </canvas>
+          </param>
+          <param name="time_dilation">
+            <real value="1.0000000000"/>
+          </param>
+          <param name="time_offset">
+            <time value="0s"/>
+          </param>
+          <param name="children_lock">
+            <bool value="true" static="true"/>
+          </param>
+          <param name="outline_grow">
+            <real value="0.0000000000"/>
+          </param>
+          <param name="layer_name">
+            <string>lower arm-r.png</string>
+          </param>
+          <param name="layer_depth">
+            <integer value="-1"/>
+          </param>
+        </layer>
+        <layer type="switch" active="true" exclude_from_rendering="false" version="0.0" desc="hand-l.png">
+          <param name="z_depth">
+            <real value="0.0000000000"/>
+          </param>
+          <param name="amount">
+            <real value="1.0000000000"/>
+          </param>
+          <param name="blend_method">
+            <integer value="0" static="true"/>
+          </param>
+          <param name="origin">
+            <vector>
+              <x>0.0000000000</x>
+              <y>0.0000000000</y>
+            </vector>
+          </param>
+          <param name="transformation">
+            <bone_link type="transformation">
+              <bone>
+                <bone_valuenode type="bone_object" guid="ED39FC138A4D9B6AB3BC36D6BAD10621"/>
+              </bone>
+              <base_value>
+                <composite type="transformation">
+                  <offset>
+                    <vector>
+                      <x>0.7424077392</x>
+                      <y>0.0338139869</y>
+                    </vector>
+                  </offset>
+                  <angle>
+                    <angle value="129.113373"/>
+                  </angle>
+                  <skew_angle>
+                    <angle value="-360.000000"/>
+                  </skew_angle>
+                  <scale>
+                    <vector>
+                      <x>1.0000000000</x>
+                      <y>1.0000000000</y>
+                    </vector>
+                  </scale>
+                </composite>
+              </base_value>
+              <translate>
+                <bool value="true"/>
+              </translate>
+              <rotate>
+                <bool value="true"/>
+              </rotate>
+              <skew>
+                <bool value="true"/>
+              </skew>
+              <scale_x>
+                <bool value="true"/>
+              </scale_x>
+              <scale_y>
+                <bool value="true"/>
+              </scale_y>
+            </bone_link>
+          </param>
+          <param name="canvas">
+            <canvas>
+              <layer type="import" active="true" exclude_from_rendering="false" version="0.1" desc="hand-l.png">
+                <param name="z_depth">
+                  <real value="0.0000000000"/>
+                </param>
+                <param name="amount">
+                  <real value="1.0000000000"/>
+                </param>
+                <param name="blend_method">
+                  <integer value="0" static="true"/>
+                </param>
+                <param name="tl">
+                  <vector>
+                    <x>-0.8999999762</x>
+                    <y>1.0333333015</y>
+                  </vector>
+                </param>
+                <param name="br">
+                  <vector>
+                    <x>0.8999999762</x>
+                    <y>-1.0333333015</y>
+                  </vector>
+                </param>
+                <param name="c">
+                  <integer value="1" static="true"/>
+                </param>
+                <param name="gamma_adjust">
+                  <real value="1.0000000000"/>
+                </param>
+                <param name="filename">
+                  <string>../workshop-synfig\workshop-synfig\character-2\hand-l.png</string>
+                </param>
+                <param name="time_offset">
+                  <time value="0s"/>
+                </param>
+              </layer>
+            </canvas>
+          </param>
+          <param name="time_dilation">
+            <real value="1.0000000000"/>
+          </param>
+          <param name="time_offset">
+            <time value="0s"/>
+          </param>
+          <param name="children_lock">
+            <bool value="true" static="true"/>
+          </param>
+          <param name="outline_grow">
+            <real value="0.0000000000"/>
+          </param>
+          <param name="layer_name">
+            <string>hand-l.png</string>
+          </param>
+          <param name="layer_depth">
+            <integer value="-1"/>
+          </param>
+        </layer>
+        <layer type="switch" active="true" exclude_from_rendering="false" version="0.0" desc="head.png">
+          <param name="z_depth">
+            <real value="0.0000000000"/>
+          </param>
+          <param name="amount">
+            <real value="1.0000000000"/>
+          </param>
+          <param name="blend_method">
+            <integer value="0" static="true"/>
+          </param>
+          <param name="origin">
+            <vector>
+              <x>0.0000000000</x>
+              <y>0.0000000000</y>
+            </vector>
+          </param>
+          <param name="transformation">
+            <bone_link type="transformation">
+              <bone>
+                <bone_valuenode type="bone_object" guid="91C6F53F43FC367EB551A234714505CA"/>
+              </bone>
+              <base_value>
+                <composite type="transformation">
+                  <offset>
+                    <vector>
+                      <x>0.5946934223</x>
+                      <y>0.2897316813</y>
+                    </vector>
+                  </offset>
+                  <angle>
+                    <angle value="-90.029739"/>
+                  </angle>
+                  <skew_angle>
+                    <angle value="-0.345737"/>
+                  </skew_angle>
+                  <scale>
+                    <vector>
+                      <x>0.9999985099</x>
+                      <y>0.2814196348</y>
+                    </vector>
+                  </scale>
+                </composite>
+              </base_value>
+              <translate>
+                <bool value="true"/>
+              </translate>
+              <rotate>
+                <bool value="true"/>
+              </rotate>
+              <skew>
+                <bool value="true"/>
+              </skew>
+              <scale_x>
+                <bool value="true"/>
+              </scale_x>
+              <scale_y>
+                <bool value="true"/>
+              </scale_y>
+            </bone_link>
+          </param>
+          <param name="canvas">
+            <canvas>
+              <layer type="import" active="true" exclude_from_rendering="false" version="0.1" desc="head.png">
+                <param name="z_depth">
+                  <real value="0.0000000000"/>
+                </param>
+                <param name="amount">
+                  <real value="1.0000000000"/>
+                </param>
+                <param name="blend_method">
+                  <integer value="0" static="true"/>
+                </param>
+                <param name="tl">
+                  <vector>
+                    <x>-2.8750000000</x>
+                    <y>2.7083332539</y>
+                  </vector>
+                </param>
+                <param name="br">
+                  <vector>
+                    <x>2.8750000000</x>
+                    <y>-2.7083332539</y>
+                  </vector>
+                </param>
+                <param name="c">
+                  <integer value="1" static="true"/>
+                </param>
+                <param name="gamma_adjust">
+                  <real value="1.0000000000"/>
+                </param>
+                <param name="filename">
+                  <string>../workshop-synfig\workshop-synfig\character-2\head.png</string>
+                </param>
+                <param name="time_offset">
+                  <time value="0s"/>
+                </param>
+              </layer>
+            </canvas>
+          </param>
+          <param name="time_dilation">
+            <real value="1.0000000000"/>
+          </param>
+          <param name="time_offset">
+            <time value="0s"/>
+          </param>
+          <param name="children_lock">
+            <bool value="true" static="true"/>
+          </param>
+          <param name="outline_grow">
+            <real value="0.0000000000"/>
+          </param>
+          <param name="layer_name">
+            <string>head.png</string>
+          </param>
+          <param name="layer_depth">
+            <integer value="-1"/>
+          </param>
+        </layer>
+        <layer type="switch" active="true" exclude_from_rendering="false" version="0.0" desc="lower arm-l.png">
+          <param name="z_depth">
+            <real value="0.0000000000"/>
+          </param>
+          <param name="amount">
+            <real value="1.0000000000"/>
+          </param>
+          <param name="blend_method">
+            <integer value="0" static="true"/>
+          </param>
+          <param name="origin">
+            <vector>
+              <x>0.0000000000</x>
+              <y>0.0000000000</y>
+            </vector>
+          </param>
+          <param name="transformation">
+            <bone_link type="transformation">
+              <bone>
+                <bone_valuenode type="bone_object" guid="171A083A8A183D3B5EE23DF6820FA085"/>
+              </bone>
+              <base_value>
+                <composite type="transformation">
+                  <offset>
+                    <vector>
+                      <x>0.4887078404</x>
+                      <y>-0.0524129979</y>
+                    </vector>
+                  </offset>
+                  <angle>
+                    <angle value="107.215546"/>
+                  </angle>
+                  <skew_angle>
+                    <angle value="-309.738007"/>
+                  </skew_angle>
+                  <scale>
+                    <vector>
+                      <x>0.7920152545</x>
+                      <y>0.7079532743</y>
+                    </vector>
+                  </scale>
+                </composite>
+              </base_value>
+              <translate>
+                <bool value="true"/>
+              </translate>
+              <rotate>
+                <bool value="true"/>
+              </rotate>
+              <skew>
+                <bool value="true"/>
+              </skew>
+              <scale_x>
+                <bool value="true"/>
+              </scale_x>
+              <scale_y>
+                <bool value="true"/>
+              </scale_y>
+            </bone_link>
+          </param>
+          <param name="canvas">
+            <canvas>
+              <layer type="import" active="true" exclude_from_rendering="false" version="0.1" desc="lower arm-l.png">
+                <param name="z_depth">
+                  <real value="0.0000000000"/>
+                </param>
+                <param name="amount">
+                  <real value="1.0000000000"/>
+                </param>
+                <param name="blend_method">
+                  <integer value="0" static="true"/>
+                </param>
+                <param name="tl">
+                  <vector>
+                    <x>-1.2500000000</x>
+                    <y>1.3750000000</y>
+                  </vector>
+                </param>
+                <param name="br">
+                  <vector>
+                    <x>1.2500000000</x>
+                    <y>-1.3750000000</y>
+                  </vector>
+                </param>
+                <param name="c">
+                  <integer value="1" static="true"/>
+                </param>
+                <param name="gamma_adjust">
+                  <real value="1.0000000000"/>
+                </param>
+                <param name="filename">
+                  <string>../workshop-synfig\workshop-synfig\character-2\lower arm-l.png</string>
+                </param>
+                <param name="time_offset">
+                  <time value="0s"/>
+                </param>
+              </layer>
+            </canvas>
+          </param>
+          <param name="time_dilation">
+            <real value="1.0000000000"/>
+          </param>
+          <param name="time_offset">
+            <time value="0s"/>
+          </param>
+          <param name="children_lock">
+            <bool value="true" static="true"/>
+          </param>
+          <param name="outline_grow">
+            <real value="0.0000000000"/>
+          </param>
+          <param name="layer_name">
+            <string>lower arm-l.png</string>
+          </param>
+          <param name="layer_depth">
+            <integer value="-1"/>
+          </param>
+        </layer>
+        <layer type="switch" active="true" exclude_from_rendering="false" version="0.0" desc="lower leg-l.png">
+          <param name="z_depth">
+            <real value="0.0000000000"/>
+          </param>
+          <param name="amount">
+            <real value="1.0000000000"/>
+          </param>
+          <param name="blend_method">
+            <integer value="0" static="true"/>
+          </param>
+          <param name="origin">
+            <vector>
+              <x>0.0000000000</x>
+              <y>0.0000000000</y>
+            </vector>
+          </param>
+          <param name="transformation">
+            <bone_link type="transformation">
+              <bone>
+                <bone_valuenode type="bone_object" guid="724FDC1A0296094FAC889B87F8E7FFBF"/>
+              </bone>
+              <base_value>
+                <composite type="transformation">
+                  <offset>
+                    <vector>
+                      <x>0.4020166993</x>
+                      <y>0.1779963374</y>
+                    </vector>
+                  </offset>
+                  <angle>
+                    <angle value="-107.963470"/>
+                  </angle>
+                  <skew_angle>
+                    <angle value="-48.564186"/>
+                  </skew_angle>
+                  <scale>
+                    <vector>
+                      <x>0.7954325676</x>
+                      <y>0.7127927542</y>
+                    </vector>
+                  </scale>
+                </composite>
+              </base_value>
+              <translate>
+                <bool value="true"/>
+              </translate>
+              <rotate>
+                <bool value="true"/>
+              </rotate>
+              <skew>
+                <bool value="true"/>
+              </skew>
+              <scale_x>
+                <bool value="true"/>
+              </scale_x>
+              <scale_y>
+                <bool value="true"/>
+              </scale_y>
+            </bone_link>
+          </param>
+          <param name="canvas">
+            <canvas>
+              <layer type="import" active="true" exclude_from_rendering="false" version="0.1" desc="lower leg-l.png">
+                <param name="z_depth">
+                  <real value="0.0000000000"/>
+                </param>
+                <param name="amount">
+                  <real value="1.0000000000"/>
+                </param>
+                <param name="blend_method">
+                  <integer value="0" static="true"/>
+                </param>
+                <param name="tl">
+                  <vector>
+                    <x>-1.7250000238</x>
+                    <y>1.7833333015</y>
+                  </vector>
+                </param>
+                <param name="br">
+                  <vector>
+                    <x>1.7250000238</x>
+                    <y>-1.7833333015</y>
+                  </vector>
+                </param>
+                <param name="c">
+                  <integer value="1" static="true"/>
+                </param>
+                <param name="gamma_adjust">
+                  <real value="1.0000000000"/>
+                </param>
+                <param name="filename">
+                  <string>../workshop-synfig\workshop-synfig\character-2\lower leg-l.png</string>
+                </param>
+                <param name="time_offset">
+                  <time value="0s"/>
+                </param>
+              </layer>
+            </canvas>
+          </param>
+          <param name="time_dilation">
+            <real value="1.0000000000"/>
+          </param>
+          <param name="time_offset">
+            <time value="0s"/>
+          </param>
+          <param name="children_lock">
+            <bool value="true" static="true"/>
+          </param>
+          <param name="outline_grow">
+            <real value="0.0000000000"/>
+          </param>
+          <param name="layer_name">
+            <string>lower leg-l.png</string>
+          </param>
+          <param name="layer_depth">
+            <integer value="-1"/>
+          </param>
+        </layer>
+        <layer type="switch" active="true" exclude_from_rendering="false" version="0.0" desc="upper arm-l.png">
+          <param name="z_depth">
+            <real value="0.0000000000"/>
+          </param>
+          <param name="amount">
+            <real value="1.0000000000"/>
+          </param>
+          <param name="blend_method">
+            <integer value="0" static="true"/>
+          </param>
+          <param name="origin">
+            <vector>
+              <x>0.0000000000</x>
+              <y>0.0000000000</y>
+            </vector>
+          </param>
+          <param name="transformation">
+            <bone_link type="transformation">
+              <bone>
+                <bone_valuenode type="bone_object" guid="67A1AD03BFE89160FE225990C5DC931B"/>
+              </bone>
+              <base_value>
+                <composite type="transformation">
+                  <offset>
+                    <vector>
+                      <x>0.5302132368</x>
+                      <y>0.0277569201</y>
+                    </vector>
+                  </offset>
+                  <angle>
+                    <angle value="108.010963"/>
+                  </angle>
+                  <skew_angle>
+                    <angle value="-330.487457"/>
+                  </skew_angle>
+                  <scale>
+                    <vector>
+                      <x>0.9033027887</x>
+                      <y>0.6940653920</y>
+                    </vector>
+                  </scale>
+                </composite>
+              </base_value>
+              <translate>
+                <bool value="true"/>
+              </translate>
+              <rotate>
+                <bool value="true"/>
+              </rotate>
+              <skew>
+                <bool value="true"/>
+              </skew>
+              <scale_x>
+                <bool value="true"/>
+              </scale_x>
+              <scale_y>
+                <bool value="true"/>
+              </scale_y>
+            </bone_link>
+          </param>
+          <param name="canvas">
+            <canvas>
+              <layer type="import" active="true" exclude_from_rendering="false" version="0.1" desc="upper arm-l.png">
+                <param name="z_depth">
+                  <real value="0.0000000000"/>
+                </param>
+                <param name="amount">
+                  <real value="1.0000000000"/>
+                </param>
+                <param name="blend_method">
+                  <integer value="0" static="true"/>
+                </param>
+                <param name="tl">
+                  <vector>
+                    <x>-1.1166666746</x>
+                    <y>1.4750000238</y>
+                  </vector>
+                </param>
+                <param name="br">
+                  <vector>
+                    <x>1.1166666746</x>
+                    <y>-1.4750000238</y>
+                  </vector>
+                </param>
+                <param name="c">
+                  <integer value="1" static="true"/>
+                </param>
+                <param name="gamma_adjust">
+                  <real value="1.0000000000"/>
+                </param>
+                <param name="filename">
+                  <string>../workshop-synfig\workshop-synfig\character-2\upper arm-l.png</string>
+                </param>
+                <param name="time_offset">
+                  <time value="0s"/>
+                </param>
+              </layer>
+            </canvas>
+          </param>
+          <param name="time_dilation">
+            <real value="1.0000000000"/>
+          </param>
+          <param name="time_offset">
+            <time value="0s"/>
+          </param>
+          <param name="children_lock">
+            <bool value="true" static="true"/>
+          </param>
+          <param name="outline_grow">
+            <real value="0.0000000000"/>
+          </param>
+          <param name="layer_name">
+            <string>upper arm-l.png</string>
+          </param>
+          <param name="layer_depth">
+            <integer value="-1"/>
+          </param>
+        </layer>
+        <layer type="switch" active="true" exclude_from_rendering="false" version="0.0" desc="upper leg-l.png">
+          <param name="z_depth">
+            <real value="0.0000000000"/>
+          </param>
+          <param name="amount">
+            <real value="1.0000000000"/>
+          </param>
+          <param name="blend_method">
+            <integer value="0" static="true"/>
+          </param>
+          <param name="origin">
+            <vector>
+              <x>0.0000000000</x>
+              <y>0.0000000000</y>
+            </vector>
+          </param>
+          <param name="transformation">
+            <bone_link type="transformation">
+              <bone>
+                <bone_valuenode type="bone_object" guid="52DDFAE3E33EB3BBC1E8A235FB65EF8C"/>
+              </bone>
+              <base_value>
+                <composite type="transformation">
+                  <offset>
+                    <vector>
+                      <x>0.4803844392</x>
+                      <y>0.1669125855</y>
+                    </vector>
+                  </offset>
+                  <angle>
+                    <angle value="-96.984489"/>
+                  </angle>
+                  <skew_angle>
+                    <angle value="-48.961788"/>
+                  </skew_angle>
+                  <scale>
+                    <vector>
+                      <x>0.9269617200</x>
+                      <y>0.4728034139</y>
+                    </vector>
+                  </scale>
+                </composite>
+              </base_value>
+              <translate>
+                <bool value="true"/>
+              </translate>
+              <rotate>
+                <bool value="true"/>
+              </rotate>
+              <skew>
+                <bool value="true"/>
+              </skew>
+              <scale_x>
+                <bool value="true"/>
+              </scale_x>
+              <scale_y>
+                <bool value="true"/>
+              </scale_y>
+            </bone_link>
+          </param>
+          <param name="canvas">
+            <canvas>
+              <layer type="import" active="true" exclude_from_rendering="false" version="0.1" desc="upper leg-l.png">
+                <param name="z_depth">
+                  <real value="0.0000000000"/>
+                </param>
+                <param name="amount">
+                  <real value="1.0000000000"/>
+                </param>
+                <param name="blend_method">
+                  <integer value="0" static="true"/>
+                </param>
+                <param name="tl">
+                  <vector>
+                    <x>-1.5000000000</x>
+                    <y>2.4249999523</y>
+                  </vector>
+                </param>
+                <param name="br">
+                  <vector>
+                    <x>1.5000000000</x>
+                    <y>-2.4249999523</y>
+                  </vector>
+                </param>
+                <param name="c">
+                  <integer value="1" static="true"/>
+                </param>
+                <param name="gamma_adjust">
+                  <real value="1.0000000000"/>
+                </param>
+                <param name="filename">
+                  <string>../workshop-synfig\workshop-synfig\character-2\upper leg-l.png</string>
+                </param>
+                <param name="time_offset">
+                  <time value="0s"/>
+                </param>
+              </layer>
+            </canvas>
+          </param>
+          <param name="time_dilation">
+            <real value="1.0000000000"/>
+          </param>
+          <param name="time_offset">
+            <time value="0s"/>
+          </param>
+          <param name="children_lock">
+            <bool value="true" static="true"/>
+          </param>
+          <param name="outline_grow">
+            <real value="0.0000000000"/>
+          </param>
+          <param name="layer_name">
+            <string>upper leg-l.png</string>
+          </param>
+          <param name="layer_depth">
+            <integer value="-1"/>
+          </param>
+        </layer>
+        <layer type="skeleton" active="true" exclude_from_rendering="true" version="0.1">
+          <param name="z_depth">
+            <real value="0.0000000000"/>
+          </param>
+          <param name="amount">
+            <real value="0.5000000000"/>
+          </param>
+          <param name="name">
+            <string>skeleton</string>
+          </param>
+          <param name="bones">
+            <static_list type="bone_object">
+              <entry>
+                <bone type="bone_object" guid="91C6F53F43FC367EB551A234714505CA"/>
+              </entry>
+              <entry>
+                <bone type="bone_object" guid="ED39FC138A4D9B6AB3BC36D6BAD10621"/>
+              </entry>
+              <entry>
+                <bone type="bone_object" guid="171A083A8A183D3B5EE23DF6820FA085"/>
+              </entry>
+              <entry>
+                <bone type="bone_object" guid="67A1AD03BFE89160FE225990C5DC931B"/>
+              </entry>
+              <entry>
+                <bone type="bone_object" guid="0810E94DFF098E6ACF4599FB6F13C8BF"/>
+              </entry>
+              <entry>
+                <bone type="bone_object" guid="CCF4372B480AA1F2A293E21D91E38264"/>
+              </entry>
+              <entry>
+                <bone type="bone_object" guid="7CC76776840BF9B267FBC3F08163DF80"/>
+              </entry>
+              <entry>
+                <bone type="bone_object" guid="0C396C8AAE53CFB025C31A2AC10B1E3F"/>
+              </entry>
+              <entry>
+                <bone type="bone_object" guid="27326CBE13C59CDA74AF252CBA5C8020"/>
+              </entry>
+              <entry>
+                <bone type="bone_object" guid="B09627C3214D325AB9F4E18EF4898D83"/>
+              </entry>
+              <entry>
+                <bone type="bone_object" guid="3408176DBA9650F57EC65992B00F35EF"/>
+              </entry>
+              <entry>
+                <bone type="bone_object" guid="EDDC9E63F7B69C55A0ED479308B3923C"/>
+              </entry>
+              <entry>
+                <bone type="bone_object" guid="724FDC1A0296094FAC889B87F8E7FFBF"/>
+              </entry>
+              <entry>
+                <bone type="bone_object" guid="52DDFAE3E33EB3BBC1E8A235FB65EF8C"/>
+              </entry>
+              <entry>
+                <bone type="bone_object" guid="221DE91CF954F94F20FB8150D12A5B0A"/>
+              </entry>
+            </static_list>
+          </param>
+        </layer>
+      </canvas>
+    </param>
+    <param name="time_dilation">
+      <real value="1.0000000000"/>
+    </param>
+    <param name="time_offset">
+      <time value="0s"/>
+    </param>
+    <param name="children_lock">
+      <bool value="false"/>
+    </param>
+    <param name="outline_grow">
+      <real value="0.0000000000"/>
+    </param>
+    <param name="z_range">
+      <bool value="false" static="true"/>
+    </param>
+    <param name="z_range_position">
+      <real value="0.0000000000"/>
+    </param>
+    <param name="z_range_depth">
+      <real value="0.0000000000"/>
+    </param>
+    <param name="z_range_blur">
+      <real value="0.0000000000"/>
+    </param>
+  </layer>
+</canvas>
